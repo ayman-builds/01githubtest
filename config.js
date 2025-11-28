@@ -1,2 +1,2 @@
 console.log('config.js');
-console.log('version5.5');
+console.log('version 5 branch 2');
