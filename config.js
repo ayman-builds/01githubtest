@@ -1,3 +1,3 @@
 console.log('config.js loaded');
 
-console.log('version 2');
+console.log('version try empty commit name');
